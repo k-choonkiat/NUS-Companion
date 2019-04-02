@@ -49,5 +49,5 @@ export default {
 
 .sideBtn{
   float:left;
-}
+} 
 </style>

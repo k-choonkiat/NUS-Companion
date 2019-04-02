@@ -8,7 +8,7 @@
       <b>*Do note that NUS requires students to take minimally 18 MCs per semester</b>
     </p>
 
-    <v-container grid-list-md text-xs>
+    <v-container grid-list-md text-xs class="searchMods">
       <v-layout row wrap>
         <v-flex xs3 sm6 md3>
           <label class="label">

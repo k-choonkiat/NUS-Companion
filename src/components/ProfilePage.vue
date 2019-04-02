@@ -44,7 +44,7 @@
               <div class="card-header"><h3>Summary of degree requirements for BSc (Business Analytics)</h3></div>
               <div class="card-body">
                 <p><b>Grand Total: 160 MCS</b></p>
-                <p>*Highlight rows in green represent completion of module</p>
+                <p>*Highlighted rows in green represent completion of module</p>
                 <p> <u>1. University Level Requirements: Subtotal 20 MCS </u></p>
                 <table class="table table-striped">
                   <thead>
@@ -519,5 +519,10 @@ tfoot tr:last-child td:last-child {
 
 .text-complete {
     background-color: #66ff00 !important;
+  }
+
+.green-column{
+  text-align: left;
+
   }
 </style>
